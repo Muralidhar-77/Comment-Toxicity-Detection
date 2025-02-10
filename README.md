@@ -2,7 +2,7 @@
 
 A deep learning-based model for detecting toxic online comments, using **Bidirectional LSTM** and **word embeddings** for text classification.  
 
-![Project Overview](image1.png)  
+![Interface](https://github.com/Muralidhar-77/Comment-Toxicity-Detection/blob/main/img.png)  
 
 ## 📌 Features  
 ✅ Multi-label classification for detecting **toxic, severe toxic, obscene, threat, insult, identity hate** categories.  
